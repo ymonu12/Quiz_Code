@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.554" height="12.554" viewBox="0 0 12.554 12.554">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="emoji" style="opacity:.98">
+        <path id="Path_980" data-name="Path 980" d="M8.64 12.554H3.913A3.918 3.918 0 0 1 0 8.64V3.913A3.918 3.918 0 0 1 3.913 0H8.64a3.918 3.918 0 0 1 3.913 3.913V8.64a3.918 3.918 0 0 1-3.913 3.914z" style="fill:#656565"/>
+        <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-3" cx="1.156" cy="1.156" r="1.156" transform="translate(2.758 2.758)"/>
+        <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-3" cx="1.156" cy="1.156" r="1.156" transform="translate(7.485 2.758)"/>
+        <path id="Path_982" data-name="Path 982" class="cls-3" d="M118.446 244.493a.368.368 0 0 1-.287-.138 2.782 2.782 0 0 0-4.345 0 .368.368 0 0 1-.574 0 3.528 3.528 0 0 1-.773-2.2 1.157 1.157 0 0 1 1.156-1.155h4.727a1.157 1.157 0 0 1 1.156 1.156 3.528 3.528 0 0 1-.773 2.2.368.368 0 0 1-.287.137z" transform="translate(-109.709 -235.091)"/>
+        <path id="Path_984" data-name="Path 984" d="M143.517 308.366a3.5 3.5 0 0 1-2.746-1.319.368.368 0 0 1 0-.46 3.518 3.518 0 0 1 5.493 0 .368.368 0 0 1 0 .46 3.5 3.5 0 0 1-2.747 1.319z" transform="translate(-137.24 -297.782)" style="fill:#e1e1e1"/>
+    </g>
+</svg>

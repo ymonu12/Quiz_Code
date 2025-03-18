@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="menu_ic" transform="translate(-12 -6)">
+    <rect id="Rectangle_9199" data-name="Rectangle 9199" width="40" height="40" rx="13" transform="translate(12 6)" fill="#fff"/>
+    <g id="hamburger_icon" transform="translate(22.5 20.5)">
+      <path id="Line_111" data-name="Line 111" d="M0,0H18.119" transform="translate(0.5 0.5)" fill="none" stroke="#003c60" stroke-linecap="round" stroke-width="1"/>
+      <path id="Line_112" data-name="Line 112" d="M0,0H18.119" transform="translate(0.5 5.642)" fill="none" stroke="#003c60" stroke-linecap="round" stroke-width="1"/>
+      <path id="Line_113" data-name="Line 113" d="M0,0H9.06" transform="translate(0.5 10.784)" fill="none" stroke="#003c60" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
