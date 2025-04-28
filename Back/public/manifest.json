@@ -2,8 +2,6 @@
   {
     "url": "https://nodetest.mchamp.com",
     "name": "My Cool App",
-    "iconUrl": "https://nodetest.mchamp.com/favicon12.png",
-    "termsOfUseUrl": "https://nodetest.mchamp.com/terms",
-    "privacyPolicyUrl": "https://nodetest.mchamp.com/privacy"
+    "iconUrl": "https://nodetest.mchamp.com/favicon12.png"
   }
   
