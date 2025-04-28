@@ -3,7 +3,7 @@
   "name": "My Cool App",
   "short_name": "CoolApp",
   "description": "A very cool app with TON integration",
-  "platforms": ["android", "ios"],
+  "platforms": ["android", "ios", "web"],  // Added "web" here ✅
   "icon_url": "https://nodetest.mchamp.com/favicon12.png",
   "url": "https://nodetest.mchamp.com",
   "bot_id": "YOUR_TELEGRAM_BOT_ID",
