@@ -1,25 +1,14 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "version": "1.0.0",
+  "name": "My Cool App",
+  "short_name": "CoolApp",
+  "description": "A very cool app with TON integration",
+  "platforms": ["android", "ios"],
+  "icon_url": "https://nodetest.mchamp.com/favicon12.png",
+  "url": "https://nodetest.mchamp.com",
+  "bot_id": "YOUR_TELEGRAM_BOT_ID",
+  "permissions": ["TON", "network", "user"],
+  "terms_of_service_url": "https://nodetest.mchamp.com/terms",
+  "privacy_policy_url": "https://nodetest.mchamp.com/privacy",
+  "secure": true
 }
