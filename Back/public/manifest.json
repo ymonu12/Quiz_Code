@@ -1,14 +1,9 @@
-{
-  "version": "1.0.0",
-  "name": "My Cool App",
-  "short_name": "CoolApp",
-  "description": "A very cool app with TON integration",
-  "platforms": ["android", "ios", "web"],  // Added "web" here ✅
-  "icon_url": "https://nodetest.mchamp.com/favicon12.png",
-  "url": "https://nodetest.mchamp.com",
-  "bot_id": "YOUR_TELEGRAM_BOT_ID",
-  "permissions": ["TON", "network", "user"],
-  "terms_of_service_url": "https://nodetest.mchamp.com/terms",
-  "privacy_policy_url": "https://nodetest.mchamp.com/privacy",
-  "secure": true
-}
+
+  {
+    "url": "https://nodetest.mchamp.com",
+    "name": "My Cool App",
+    "iconUrl": "https://nodetest.mchamp.com/favicon12.png",
+    "termsOfUseUrl": "https://nodetest.mchamp.com/terms",
+    "privacyPolicyUrl": "https://nodetest.mchamp.com/privacy"
+  }
+  
